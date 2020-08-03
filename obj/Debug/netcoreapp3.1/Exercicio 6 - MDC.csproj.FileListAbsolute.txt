@@ -1,0 +1,13 @@
+C:\repo\Exercicio 6 - MDC\bin\Debug\netcoreapp3.1\Exercicio 6 - MDC.exe
+C:\repo\Exercicio 6 - MDC\bin\Debug\netcoreapp3.1\Exercicio 6 - MDC.deps.json
+C:\repo\Exercicio 6 - MDC\bin\Debug\netcoreapp3.1\Exercicio 6 - MDC.runtimeconfig.json
+C:\repo\Exercicio 6 - MDC\bin\Debug\netcoreapp3.1\Exercicio 6 - MDC.runtimeconfig.dev.json
+C:\repo\Exercicio 6 - MDC\bin\Debug\netcoreapp3.1\Exercicio 6 - MDC.dll
+C:\repo\Exercicio 6 - MDC\bin\Debug\netcoreapp3.1\Exercicio 6 - MDC.pdb
+C:\repo\Exercicio 6 - MDC\obj\Debug\netcoreapp3.1\Exercicio 6 - MDC.csprojAssemblyReference.cache
+C:\repo\Exercicio 6 - MDC\obj\Debug\netcoreapp3.1\Exercicio 6 - MDC.AssemblyInfoInputs.cache
+C:\repo\Exercicio 6 - MDC\obj\Debug\netcoreapp3.1\Exercicio 6 - MDC.AssemblyInfo.cs
+C:\repo\Exercicio 6 - MDC\obj\Debug\netcoreapp3.1\Exercicio 6 - MDC.csproj.CoreCompileInputs.cache
+C:\repo\Exercicio 6 - MDC\obj\Debug\netcoreapp3.1\Exercicio 6 - MDC.dll
+C:\repo\Exercicio 6 - MDC\obj\Debug\netcoreapp3.1\Exercicio 6 - MDC.pdb
+C:\repo\Exercicio 6 - MDC\obj\Debug\netcoreapp3.1\Exercicio 6 - MDC.genruntimeconfig.cache
